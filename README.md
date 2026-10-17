@@ -19,6 +19,8 @@ Hi! I'm Gemechu, a passionate software developer with experience in Node, JavaSc
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GTiko&theme=radical&no-bg=true&no-frame=true)
 
 ## 📌 Featured Projects
+- 🔹 [Mesiye Beauty salon](https://mesi-salon.vercel.app/)
+- 🔹 [MakiFlixi](https://my-movie.makiflixi.workers.dev/)
 - 🔹 [Ethiopian Wushu Federation](https://ewuf.netlify.app/)
 - 🔹 [Track-expense](http://track-and-split-expense-angular.s3-website.us-east-2.amazonaws.com/)
 - 🔹 [Online Book Store](http://book-store-frontend.s3-website.us-east-2.amazonaws.com/home)
